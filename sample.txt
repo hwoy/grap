@@ -1,0 +1,12 @@
+   sau:Staphylococcus aureus:0
+sep:Staphylococcus epidermidis:0         
+      sga:Streptococcus Gr.A:0    
+sgb:Streptococcus Gr.B:0:
+
+
+
+sgc:Streptococcus Gr.C:1:2:::
+::hwoy:::voy
+view:
+:
+
