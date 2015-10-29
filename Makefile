@@ -1,4 +1,4 @@
-cc = gcc
+cc = $(CC)
 bin = grap
 CFLAGS = -O2 -std=c89 -pedantic -Wall -DANSI
 .PHONY: all clean
